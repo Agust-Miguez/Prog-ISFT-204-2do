@@ -7,10 +7,10 @@
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
-TFrame2 *Frame2;
+TForm2 *Form2;
 //---------------------------------------------------------------------------
-__fastcall TFrame2::TFrame2(TComponent* Owner)
-	: TFrame(Owner)
+__fastcall TForm2::TForm2(TComponent* Owner)
+	: TForm(Owner)
 {
 }
 //---------------------------------------------------------------------------

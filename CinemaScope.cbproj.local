@@ -3,19 +3,24 @@
 	<Transactions>
     <Transaction>2024/09/05 23:13:54.000.431,=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2024/09/05 23:13:54.000.101,=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2024/09/05 23:14:16.000.366,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScopePCH1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2024/09/05 23:14:16.000.371,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScope.cbproj=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2024/09/05 23:22:03.000.297,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\CinemaScope.cbproj=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScope.cbproj</Transaction>
-    <Transaction>2024/09/05 23:22:03.000.254,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\CinemaScopePCH2.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScopePCH1.h</Transaction>
+    <Transaction>2024/09/05 23:14:16.000.366,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScopePCH1.h</Transaction>
+    <Transaction>2024/09/05 23:14:16.000.371,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScope.cbproj</Transaction>
+    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.dfm</Transaction>
+    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.h</Transaction>
+    <Transaction>2024/09/05 23:22:03.000.254,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScopePCH1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\CinemaScopePCH2.h</Transaction>
+    <Transaction>2024/09/05 23:22:03.000.271,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.cpp</Transaction>
+    <Transaction>2024/09/05 23:22:03.000.297,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\CinemaScope.cbproj=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\CinemaScope.cbproj</Transaction>
     <Transaction>2024/09/05 23:26:50.000.836,=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.cpp</Transaction>
-    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.h</Transaction>
-    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.dfm</Transaction>
-    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.cpp</Transaction>
-    <Transaction>2024/09/12 13:03:55.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.h</Transaction>
-    <Transaction>2024/09/12 13:03:55.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.dfm</Transaction>
-    <Transaction>2024/09/12 13:03:55.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.cpp</Transaction>
+    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.h</Transaction>
+    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.cpp</Transaction>
+    <Transaction>2024/09/05 23:27:10.000.131,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit1.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Login.dfm</Transaction>
+    <Transaction>2024/09/12 13:03:55.000.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.h=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.h</Transaction>
+    <Transaction>2024/09/12 13:03:55.000.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.dfm=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.dfm</Transaction>
+    <Transaction>2024/09/12 13:03:55.000.284,C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Unit2.cpp=C:\Users\feffo\OneDrive\Documentos\Embarcadero\Studio\Projects\Cine\Index.cpp</Transaction>
+    <Transaction>2024/09/12 18:23:48.000.988,=C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Unit2.cpp</Transaction>
+    <Transaction>2024/09/12 18:24:20.000.145,C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Index.cpp=</Transaction>
+    <Transaction>2024/09/12 18:24:36.000.725,C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Index.dfm=C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Unit2.dfm</Transaction>
+    <Transaction>2024/09/12 18:24:36.000.725,C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Index.cpp=C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Unit2.cpp</Transaction>
+    <Transaction>2024/09/12 18:24:36.000.725,C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Index.h=C:\Users\feffo\OneDrive\Documentos\GitHub\Prog-ISFT-204-2do\Unit2.h</Transaction>
   </Transactions>
 </BorlandProject>

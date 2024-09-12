@@ -185,11 +185,10 @@
             <PCH>true</PCH>
         </PCHCompile>
         <CppCompile Include="Index.cpp">
-            <Form>Frame2</Form>
+            <Form>Form2</Form>
             <FormType>dfm</FormType>
-            <DesignClass>TFrame</DesignClass>
             <DependentOn>Index.h</DependentOn>
-            <BuildOrder>3</BuildOrder>
+            <BuildOrder>4</BuildOrder>
         </CppCompile>
         <CppCompile Include="Login.cpp">
             <Form>Form1</Form>
@@ -197,8 +196,8 @@
             <DependentOn>Login.h</DependentOn>
             <BuildOrder>2</BuildOrder>
         </CppCompile>
-        <FormResources Include="Index.dfm"/>
         <FormResources Include="Login.dfm"/>
+        <FormResources Include="Index.dfm"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

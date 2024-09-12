@@ -1,12 +1,17 @@
-object Frame2: TFrame2
+object Form2: TForm2
   Left = 0
   Top = 0
-  Width = 943
-  Height = 614
-  Color = clGray
-  ParentBackground = False
-  ParentColor = False
-  TabOrder = 0
+  Caption = 'Form2'
+  ClientHeight = 441
+  ClientWidth = 624
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = MainMenu1
+  TextHeight = 15
   object MainMenu1: TMainMenu
     Left = 8
     object EMplead1: TMenuItem

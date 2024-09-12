@@ -4,6 +4,7 @@
 #pragma hdrstop
 
 #include "Login.h"
+#include "Index.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -17,13 +18,13 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 
 void __fastcall TForm1::loginClick(TObject *Sender)
 {
-	 if (usser_Edit && pass_Edit =="z") {
+	 if (user_Edit->Text=="z" && pass_Edit->Text =="z") {
 
-
+		 Form2-> Visible = true;
+		 Form1-> Visible = false;
 
 	 }
 
-}
 }
 //---------------------------------------------------------------------------
 
