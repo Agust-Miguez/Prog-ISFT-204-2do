@@ -1,0 +1,21 @@
+object Frame2: TFrame2
+  Left = 0
+  Top = 0
+  Width = 943
+  Height = 614
+  Color = clGray
+  ParentBackground = False
+  ParentColor = False
+  TabOrder = 0
+  object MainMenu1: TMainMenu
+    Left = 8
+    object TMenuItem
+    end
+    object TMenuItem
+    end
+    object TMenuItem
+    end
+    object TMenuItem
+    end
+  end
+end

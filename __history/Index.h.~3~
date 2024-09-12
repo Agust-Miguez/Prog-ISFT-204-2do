@@ -1,0 +1,23 @@
+//---------------------------------------------------------------------------
+
+#ifndef IndexH
+#define IndexH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.Menus.hpp>
+//---------------------------------------------------------------------------
+class TFrame2 : public TFrame
+{
+__published:	// IDE-managed Components
+	TMainMenu *MainMenu1;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFrame2(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFrame2 *Frame2;
+//---------------------------------------------------------------------------
+#endif
